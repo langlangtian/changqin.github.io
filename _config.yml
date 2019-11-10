@@ -1,10 +1,10 @@
 # Site settings
 title: YaoLing's Blog
-SEOTitle: 耀灵的博客 | YaoLing's Blog
+SEOTitle: 长琴的博客 | ChangQin's Blog
 header-img: img_0311.jpg
 email: 1351330732@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog,耀灵的博客, qiubaiying, 郝泽煊, iOS, Apple, iPhone"
+keyword: "BY, BY Blog,长琴的博客, qiubaiying, 郝泽煊, iOS, Apple, iPhone"
 url: "http://langlangtian.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: https://github.com/langlangtian/langlangtian.github.io # you code repository
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: 狼浪天.site               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: 狼浪天.auto             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
