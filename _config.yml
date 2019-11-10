@@ -4,10 +4,10 @@ SEOTitle: 长琴的博客 | ChangQin's Blog
 header-img: img_0311.jpg
 email: 1351330732@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog,长琴的博客, qiubaiying, 郝泽煊, iOS, Apple, iPhone"
-url: "http://langlangtian.github.io"          # your host, for absolute URL
+keyword: "BY, BY Blog,长琴的博客,  郝泽煊, iOS, Apple, iPhone"
+url: "http://changqin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: https://github.com/langlangtian/langlangtian.github.io # you code repository
+github_repo: https://chanqin.github.io # you code repository
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
